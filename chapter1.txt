@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 The beginning of a story..
+=======
+The beginning of an even better story.
+>>>>>>> new-angle
